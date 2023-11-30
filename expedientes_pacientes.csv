@@ -1,6 +1,6 @@
-﻿n_exp;enfermedad;hiperten;hiperglu;hdlbaja;hipertri;cintalta;edad;genero;fuma;alcohol;poliuria
-1;NO;0;0;1;0;0;38;0;0;0;0
-2;SI;0;1;1;1;1;49;1;0;0;0
-3;SI;1;1;0;1;1;59;1;0;0;1
-4;NO;1;0;0;0;0;44;0;0;0;0
-5;NO;0;0;1;0;0;42;0;0;0;0
+﻿n_exp,enfermedad,hiperten,hiperglu,hdlbaja,hipertri,cintalta,edad,genero,fuma,alcohol,poliuria
+1,NO,0,0,1,0,0,38,0,0,0,0
+2,SI,0,1,1,1,1,49,1,0,0,0
+3,SI,1,1,0,1,1,59,1,0,0,1
+4,NO,1,0,0,0,0,44,0,0,0,0
+5,NO,0,0,1,0,0,42,0,0,0,0
